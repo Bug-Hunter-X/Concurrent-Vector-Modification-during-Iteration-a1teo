@@ -1,0 +1,1 @@
+This repository demonstrates a common error in C++ when modifying a `std::vector` while iterating through it using an index-based approach. The code attempts to remove elements from the vector within the loop, causing index issues and unexpected behavior. The solution illustrates safer and more efficient ways to modify vectors during iteration.
